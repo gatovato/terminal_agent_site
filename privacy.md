@@ -26,7 +26,7 @@ This privacy notice for Gatovato - Creator of Terminal Agent ("**Company**," "**
 
   
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with \_\_\_\_\_\_\_\_\_\_ and the Services, the choices you make, and the products and features you use. Click [here](#personalinfo) to learn more.
+**What personal information do we process?** We do not collect or process any of your data.
 
   
 
