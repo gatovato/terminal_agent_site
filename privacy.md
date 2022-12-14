@@ -245,4 +245,4 @@ If you have questions or comments about this notice, you may message us through 
   
 
 No personal information is gathered, but if you must contact me, message me through GitHub
-ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
+
