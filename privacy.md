@@ -34,11 +34,11 @@ This privacy notice for Gatovato - Creator of Terminal Agent ("**Company**," "**
 
   
 
-**Do we receive any information from third parties?** We may receive information from public databases, marketing partners, social media platforms, and other outside sources. Click [here](#othersources) to learn more.
+**Do we receive any information from third parties?** We do not receive information from 3rd parties
 
   
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#infouse) to learn more.
+**How do we process your information?** We do not process your information
 
   
 
